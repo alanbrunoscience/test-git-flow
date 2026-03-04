@@ -1,6 +1,6 @@
 {
     "name": "angular-app",
-    "version": "5.2.4-rc27",
+    "version": "5.2.4-rc29",
     "private": true,
     "scripts": {
         "ng": "ng",
