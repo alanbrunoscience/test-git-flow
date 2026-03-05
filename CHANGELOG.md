@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Corrigido
 
 - Correção do nome do carro 'Golf' na lista de carros (de 'Golfe' para 'Golf').
+- Correção do nome do carro Corolla (de 'Corola' para 'Corolla').
 
 ## 5.3.0 - 2026-03-04
 
