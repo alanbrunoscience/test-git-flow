@@ -9,8 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Corrigido
 
-- Corrigir nome do carro Golf na lista;
-- Corrigir nome do carro Camaro.
+- Corrigir nome do carro Golf na lista
+- Corrigir nome do carro Golf (de Golfee para Golf) na lista
 
 ### Adicionado
 
